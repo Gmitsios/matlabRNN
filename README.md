@@ -1,7 +1,7 @@
 # matlabRNN
 An RNN implementation in Matlab
 
-In this project you can train and test a fully functional RNN in Matlab. The network can have any amount of input neurons, output neurons, number of hidden layers (should be >= 2) and number of nodes per layers.
+In this project you can train and test a fully functional RNN in Matlab. The network can have any amount of input neurons, output neurons, number of hidden layers (should be >= 2) and number of nodes per layer.
 
 Usage:
 1. Define default network parameters in mainRNN.m
